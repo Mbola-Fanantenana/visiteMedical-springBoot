@@ -1,9 +1,9 @@
-# Medical Visits Management Project 
+# Medical Visits Management Project (API)
 
 ## Object
 
-This project aims to create a medical visits management system incorporating the 
-key entities : Doctor, Patient and Visit. The main functionnalities include CRUD operations for these entities 
+This project aims to create an API for a medical visits management system incorporating the 
+key entities : Doctor, Patient and Visit. The main functionalities include CRUD operations for these entities 
 
 ## Process
 
